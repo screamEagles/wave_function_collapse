@@ -15,7 +15,7 @@ let TILE_SIZE = 3;
 let w;
 
 function preload() {
-  sourceImage = loadImage("images/Water.png");
+  sourceImage = loadImage("images/City.png");
 }
 
 function setup() {
